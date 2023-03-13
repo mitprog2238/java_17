@@ -1,2 +1,2 @@
 # java_17
-jaja 17 features research and practice for
+Java 17 features research and practice for
